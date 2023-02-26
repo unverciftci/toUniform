@@ -20,6 +20,6 @@ https://github.com/unverciftci/toUniform/blob/main/DataToUniformMnist.ipynb
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title">
 
 <p float="left">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title", width="100">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title", width="100">  
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title", width="500">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title", width="500">  
  </p>
