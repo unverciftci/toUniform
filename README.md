@@ -10,8 +10,8 @@ For demonstration we transform dataset onto a plane so that the underlying patte
 First one is Swis Roll dataset shown in fugures below and the implementation is here: https://github.com/unverciftci/toUniform/blob/main/DatatoUniformSR.ipynb.
 
 <p float="left">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr3.png" alt="Alt text" title="Optional title", width="600">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr2.png" alt="Alt text" title="Optional title", width="600">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr3.png" alt="Alt text" title="Optional title", width="500">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr2.png" alt="Alt text" title="Optional title", width="450">
  </p>
 
 Second example is MNIST dataset shown in fugures below and the implementation is here: 
@@ -19,6 +19,6 @@ https://github.com/unverciftci/toUniform/blob/main/DataToUniformMnist.ipynb
 
 
 <p float="left">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title", width="600">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title", width="500">  
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title", width="500">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title", width="450">  
  </p>
