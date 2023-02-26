@@ -19,6 +19,6 @@ https://github.com/unverciftci/toUniform/blob/main/DataToUniformMnist.ipynb
 
 
 <p float="left">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title", width="500", height="500">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title", width="500", height="600">
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title", width="450">  
  </p>
