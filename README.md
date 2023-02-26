@@ -7,10 +7,11 @@ This model transforms data to uniformly distributued points. This is achived jus
 
 For demonstration we transform dataset onto a plane so that the underlying pattern behind the data is visible. Just give try! 
 
-First one is Swis Roll data set shown below and the implementation is https://github.com/unverciftci/toUniform/blob/main/DatatoUniformSR.ipynb. [text](http://a.com)
+First one is Swis Roll dataset shown in fugures below and the implementation is here: https://github.com/unverciftci/toUniform/blob/main/DatatoUniformSR.ipynb.(http://a.com)
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title">
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title">
-Second example is MNIST data set. 
+Second example is MNIST dataset shown in fugures below and the implementation is here: 
+https://github.com/unverciftci/toUniform/blob/main/DataToUniformMnist.ipynb
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/sr3.png" alt="Alt text" title="Optional title">
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/sr2.png" alt="Alt text" title="Optional title">
 
