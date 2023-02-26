@@ -19,9 +19,7 @@ https://github.com/unverciftci/toUniform/blob/main/DataToUniformMnist.ipynb
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title">
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title">
 
-
-```{r, figures-side, fig.show="hold", out.width="50%"}
-par(mar = c(4, 4, .1, .1))
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr3.png" alt="Alt text" title="Optional title">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr2.png" alt="Alt text" title="Optional title">
-```
+<p float="left">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist1.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/mnist.png" alt="Alt text" title="Optional title">  
+ </p>
