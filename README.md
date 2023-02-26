@@ -11,7 +11,7 @@ First one is Swis Roll dataset shown in fugures below and the implementation is 
 
 <p float="left">
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/sr3.png" alt="Alt text" title="Optional title", width="450">
-<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr2.png" alt="Alt text" title="Optional title", width="400">
+<img src="https://github.com/unverciftci/toUniform/blob/main/images/sr2.png" alt="Alt text" title="Optional title", width="450">
  </p>
 
 Second example is MNIST dataset shown in fugures below and the implementation is here: 
