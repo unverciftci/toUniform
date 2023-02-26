@@ -1,6 +1,6 @@
 # A simple neural model for unlabelled data
 
-This model transforms data to uniformly distributued points. This is achived just by mapping nearby points to distants images. By doing this tranformation, it is easy to understand the structure behind the data and even generate new data. Details can be found in our preprint which is under review and will be released soon. 
+This model transforms data to uniformly distributued points. This is achived just by mapping nearby points to distants image points. By doing this transformation, it is easy to understand the structure behind the data and even generate new data. Details can be found in our preprint which is under review and will be released soon. 
 
 
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/flow.png" alt="Alt text" title="Optional title">
