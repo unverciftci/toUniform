@@ -5,7 +5,7 @@ This model transforms data to uniformly distributued points. This is achived jus
 
 <img src="https://github.com/unverciftci/toUniform/blob/main/images/flow.png" alt="Alt text" title="Optional title">
 
-For demonstration we transform two datasets onto the plane so that the underlying pattern behind the data is visible. Just give try! 
+For demonstration we transform two datasets onto the plane so that the underlying pattern behind the data is visible. Just give a try! 
 
 First one is Swis Roll dataset shown in fugures below and the implementation is here: https://github.com/unverciftci/toUniform/blob/main/DatatoUniformSR.ipynb.
 
